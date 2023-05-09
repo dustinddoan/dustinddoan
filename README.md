@@ -6,7 +6,6 @@ Hi, my name is Dustin Doan and I am a Full-Stack Developer<br>I'm passionate abo
 
 ## Professional Experience:
 **Software Engineer - DirecTV**
-
 *El Segundo, CA | 06/2019 - 03/2023*
 
  - Develop a full-stack flow using Java and C++ to create a backend API that can detect the power source of the SWiM. Utilize the API to display a self-troubleshooting guide on the UI screen to diagnose any loss of satellite connection, resulting in a 25% decrease in the cost of deploying trucks.
@@ -14,7 +13,6 @@ Hi, my name is Dustin Doan and I am a Full-Stack Developer<br>I'm passionate abo
  - Maintained and improved performance of an existing application by monitoring and resolving issues, utilizing memory profiling tools, and monitoring performance using tools such as New Relic to ensure a positive user experience for customers.
 
 **Full-Stack Developer - Electronic Transaction Consultants (ETC)**
-
 *Richardson, TX | 05/2018 - 05/2019*
 
  - Developed user interface that integrated with machine learning system to handle configuration and processing of millions of toll transactions.
@@ -22,7 +20,6 @@ Hi, my name is Dustin Doan and I am a Full-Stack Developer<br>I'm passionate abo
  - Implemented UI configurations for back office using Java CUBA Platform. These configurations have proven to be effective in facilitating manual image review and have improved overall system efficiency.
 
 **Full-Stack Developer - Clout.com**
-
 *Los Angeles, CA | 06/2017 - 01/2018*
 
  - Developing Affiliate Program that connects shoppers and merchants for a Fintech start up.
@@ -30,7 +27,6 @@ Hi, my name is Dustin Doan and I am a Full-Stack Developer<br>I'm passionate abo
  - Participated in architecture, design and implementation of back-end features using NodeJS.
 
 **QA Test Engineer - DirecTV**
-
 *El Segundo, CA | 04/2014/04/2016*
 
  - Performed acceptance and regression testing on Set Top Box product during development lifecycle and creating comprehensive test plans, test scripts and use cases to support testing objectives.
@@ -40,15 +36,12 @@ Hi, my name is Dustin Doan and I am a Full-Stack Developer<br>I'm passionate abo
 ## Education and Certification:
 
 **Certification, Web Development Immersive - General Assembly**
-
 *Santa Monica, CA | 11/2016 – 02/2017*
 
 **Mechanical Engineer - California State University, Los Angeles**
-
 *Los Angeles, CA | 09/2009 – 06/2013*
 
 **BS Software Engineer - Van Lang University**
-
 *Ho Chi Minh, Vietnam | 09/2001 – 06/2006*
 
 
@@ -84,3 +77,13 @@ Hi, my name is Dustin Doan and I am a Full-Stack Developer<br>I'm passionate abo
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=dustinddoan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=dustinddoan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
